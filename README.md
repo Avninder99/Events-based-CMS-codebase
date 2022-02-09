@@ -52,7 +52,7 @@ The official codebase for college-based (event managing) organizations. FOUR-LEV
 Run the ```git clone``` command to clone this repository locally in your machine. You can run this command in CMD, GIT Bash, and obviously in the terminal (For macOS and Linux machines)
 
 ```bash
-git clone https://github.com/LastComrade/Events-based-organizational-website.git
+https://github.com/Avninder99/Events-based-organizational-website-1.git
 ```
 
 ### 2. Installing all the necessary NPM packages
@@ -71,7 +71,7 @@ npm install
 
 ### 3. Setup the environment variables
 
-For reference take the help of the [.env.example](https://github.com/LastComrade/Events-based-organizational-website/blob/main/.env.example) file.
+For reference take the help of the [.env.example](https://github.com/Avninder99/Events-based-organizational-website-1/blob/main/.env.example) file.
 
 ## Usage
 
@@ -212,7 +212,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Konark Lohat - [@konarklohat](https://www.linkedin.com/in/konark-lohat/) - konarklohat123456@gmail.com
+Avninder Preet Singh - [@avninder_preet_singh](https://www.linkedin.com/in/avninder-preet-singh-2119501b7/) - avninderpreet99@gmail.com
 
 Project Link: [https://github.com/LastComrade/Events-based-organizational-website](https://github.com/LastComrade/Events-based-organizational-website)
 
@@ -225,6 +225,6 @@ Project Link: [https://github.com/LastComrade/Events-based-organizational-websit
 [issues-shield]: https://img.shields.io/github/issues/LastComrade/Events-based-organizational-website.svg?style=for-the-badge
 [issues-url]: https://github.com/LastComrade/Events-based-organizational-website/issues
 [license-shield]: https://img.shields.io/github/license/LastComrade/Events-based-organizational-website.svg?style=for-the-badge
-[license-url]: https://github.com/LastComrade/Events-based-organizational-website/blob/c2693deb214f7c46411053cfbc5e5ad9573a7b7c/LICENSE
+[license-url]: https://github.com/Avninder99/Events-based-organizational-website-1/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/konark-lohat/
+[linkedin-url]: https://www.linkedin.com/in/avninder-preet-singh-2119501b7/
